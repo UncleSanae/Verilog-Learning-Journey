@@ -2,6 +2,7 @@
 *.vvp
 *.vcd
 *.out
+*.out
 
 # OS junk
 .DS_Store
