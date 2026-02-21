@@ -7,6 +7,12 @@ module top_module ( output reg A, output reg B );
         #5 B = 1;
         #5 A = 0;
         #20 B = 0;
+        
+    end
+    initial begin
+    $dumpfile("prj/icarus/tb1.vcd");        
+    $dumpvars(0,top_module);
+    #2000 $finish();
     end
 
 endmodule

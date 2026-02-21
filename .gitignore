@@ -2,7 +2,7 @@
 *.vvp
 *.vcd
 *.out
-
+*.view
 # OS junk
 .DS_Store
 Thumbs.db
