@@ -2,7 +2,15 @@
 *.vvp
 *.vcd
 *.out
+*.xpr
+*.wpc
+*.lpr
 *.view
+*.tcl
+*.rtd
+*.rpt
+*.cache
+*.str
 # OS junk
 .DS_Store
 Thumbs.db

@@ -1,4 +1,4 @@
-`include "../rtl/led.v"
+`include "../src/led.v"
 module tb_led();
     reg     key;
     wire    led;
@@ -15,7 +15,7 @@ module tb_led();
     end
     led sim_led (.key(key),.led(led));
     initial begin
-    $dumpfile("prj/sim/led.vcd");        
+    $dumpfile("user/sim/led.vcd");        
     $dumpvars(0, tb_led);
     #1000 $finish();
     end
