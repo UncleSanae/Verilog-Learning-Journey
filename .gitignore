@@ -11,6 +11,11 @@
 *.rpt
 *.cache
 *.str
+*.sim
+*.runs
+*.dcp
+*.ip_user_files
+*.xml
 # OS junk
 .DS_Store
 Thumbs.db
