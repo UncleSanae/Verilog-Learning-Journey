@@ -1,0 +1,22 @@
+{
+	"toolChain": "xilinx",
+	"prjName": {
+		"PL": "flow_led"
+	},
+	"soc": {
+		"core": "none"
+	},
+	"device": "xc7k410tffg900-2",
+	"library": {
+		"state": "remote",
+		"hardware": {
+			"common": [
+				"Factory/xilinx/src/clock/CLK_Genera.v",
+				"Factory/xilinx/src/clock/CLK_Global.v",
+				"Factory/xilinx/src/clock/CLK_Global.v",
+				"Factory/xilinx/src/clock/CLK_Genera.v"
+			],
+			"custom": []
+		}
+	}
+}
