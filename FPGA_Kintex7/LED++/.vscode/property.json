@@ -1,0 +1,10 @@
+{
+	"toolChain": "xilinx",
+	"prjName": {
+		"PL": "LED++"
+	},
+	"soc": {
+		"core": "none"
+	},
+	"device": "xc7k410tffg900-2"
+}

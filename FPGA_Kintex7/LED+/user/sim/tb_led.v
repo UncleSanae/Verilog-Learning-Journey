@@ -15,8 +15,8 @@ module tb_led();
     end
     led sim_led (.key(key),.led(led));
     initial begin
-    $dumpfile("user/sim/led.vcd");        
-    $dumpvars(0, tb_led);
+    //$dumpfile("user/sim/led.vcd");        
+    //$dumpvars(0, tb_led);
     #1000 $finish();
     end
 endmodule

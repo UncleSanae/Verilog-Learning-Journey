@@ -16,6 +16,9 @@
 *.dcp
 *.ip_user_files
 *.xml
+*.log
+*.ys
+
 # OS junk
 .DS_Store
 Thumbs.db
