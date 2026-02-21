@@ -1,0 +1,5 @@
+# 忽略 user/src 文件夹下所有的文件，等同于 user/src/* 以及 user/src/
+user/src
+
+# 忽略 user/src 文件夹下所有的 .v 后缀的文件
+user/src/*.v

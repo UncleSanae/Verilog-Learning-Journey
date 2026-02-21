@@ -1,0 +1,3 @@
+read_verilog -sv -formal -overwrite {workspace}/FPGA_Kintex7/LED/sim/tb_led.v
+design -reset-vlog; proc;
+write_json {workspace}/prj/netlist/tb_led.json
