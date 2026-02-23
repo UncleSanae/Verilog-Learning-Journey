@@ -18,7 +18,16 @@
 *.xml
 *.log
 *.ys
-
+*.vh
+*.vhd
+*.veo
+*.txt
+*.vhdl
+*.ila
+*.layout
+*.wcfg
+*.wdb
+*.xci
 # OS junk
 .DS_Store
 Thumbs.db

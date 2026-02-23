@@ -1,0 +1,10 @@
+{
+	"toolChain": "xilinx",
+	"prjName": {
+		"PL": "breath_led"
+	},
+	"soc": {
+		"core": "none"
+	},
+	"device": "xc7k410tffg900-2"
+}
