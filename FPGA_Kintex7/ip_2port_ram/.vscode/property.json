@@ -1,0 +1,10 @@
+{
+	"toolChain": "xilinx",
+	"prjName": {
+		"PL": "ip_2port_ram"
+	},
+	"soc": {
+		"core": "none"
+	},
+	"device": "xc7k410tffg900-2"
+}
