@@ -1,0 +1,10 @@
+{
+	"toolChain": "xilinx",
+	"prjName": {
+		"PL": "uart_loopback"
+	},
+	"soc": {
+		"core": "none"
+	},
+	"device": "xc7k410tffg900-2"
+}
