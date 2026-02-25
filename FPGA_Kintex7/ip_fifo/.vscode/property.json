@@ -1,0 +1,10 @@
+{
+	"toolChain": "xilinx",
+	"prjName": {
+		"PL": "ip_fifo"
+	},
+	"soc": {
+		"core": "none"
+	},
+	"device": "xc7k410tffg900-2"
+}
